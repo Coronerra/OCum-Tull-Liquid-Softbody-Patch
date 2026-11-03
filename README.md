@@ -48,6 +48,7 @@ Only on my modified **Nolvus 6.0.21** (Skyrim SE 1.5.97) with the versions above
 `Data/Scripts/Source/OCumMaleScript.psc` is the full source. Recompile it with the Papyrus compiler or Caprica, with OStim, OCum, SKSE, NiOverride and PapyrusUtil sources on the import path. Changes are marked `OCumTL:` (Tull/Liquid add-on) and `GT Softbody OCum patch:`.
 
 ## 🔗 Related
+- 🐺 [OCum Werewolf Shot](https://github.com/Coronerra/OCum-Werewolf-Shot): OCum's cum shot from the ABC werewolf cock tip
 - 🐺 [Werewolf Overhaul: Proof of Concept](https://github.com/Coronerra/Werewolf-Overhaul-Proof-of-Concept)
 - 🌕 [Beast Aware](https://github.com/Coronerra/Beast-Aware)
 - 🌙 [OStim Beast Form](https://github.com/Coronerra/OStim-Beast-Form)
